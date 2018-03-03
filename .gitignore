@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+
+# Visual Studio
+.vs/
+
+# Dependency directories
+node_modules
+
+# App
+bundle.js
