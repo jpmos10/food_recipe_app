@@ -1,0 +1,27 @@
+{
+  "name": "food_recipe_app",
+  "version": "1.0.0",
+  "description": "MERN stack version of tastytech app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmos10/food_recipe_app.git"
+  },
+  "author": "Jason Mosley and Jessica Sung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmos10/food_recipe_app/issues"
+  },
+  "homepage": "https://github.com/jpmos10/food_recipe_app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9",
+    "nodemon": "^1.17.1",
+    "react": "^16.2.0"
+  }
+}
