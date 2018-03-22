@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const bluebird = require('bluebird');
 
-const databaseuri = 'mongodb://localhost/todomernDB';
+const databaseuri = 'mongodb://localhost/recipeDB';
 const db = mongoose.connection;
 
 mongoose.Promise = bluebird;
