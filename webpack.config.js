@@ -10,7 +10,11 @@ module.exports = {
   		root: __dirname,
   		alias: {
 			Main: 'src/components/Main.js',
-			Welcome: 'src/components/Welcome.js'
+			SignIn: 'src/components/SignIn.js',
+			SignUp: 'src/components/SignUp.js',			
+			SubmitRecipe: 'src/components/SubmitRecipe.js',
+			TopNavbar: 'src/components/TopNavbar.js',
+			Welcome: 'src/components/Welcome.js',
   		},
   		extensions: ['', '.js', '.jsx']
   	},
